@@ -39,3 +39,44 @@ Examen 1
 
 ## Aqui vemos los commits, ramas y tags que usamos
 ![](https://user-images.githubusercontent.com/91208072/191413889-043a40d5-75b8-4f25-a469-9ca3a49bd879.png))
+
+## Cambiar foto en mi repositorio
+![](https://user-images.githubusercontent.com/91208072/191502417-354018a2-0143-4842-ae55-851a10dab8d2.png))
+
+## Doble factor de autenticacion
+![](https://user-images.githubusercontent.com/91208072/191503641-30b13550-c3d7-4ca9-926a-fbbfb7933d6d.png))
+
+## Seguir a 3 compañeros 
+![](https://user-images.githubusercontent.com/91208072/191504118-f585f826-4f70-4c34-bee0-b0f9c8098e24.png))
+![](https://user-images.githubusercontent.com/91208072/191504254-1277748b-6870-4cf0-b3c6-a3b2e5d75d4c.png))
+![](https://user-images.githubusercontent.com/91208072/191504772-baab23a8-3b5c-4c48-aa02-8df15964a2ac.png))
+
+## Añadir una estrella a los repositorios PM1 del resto de tus compañeros.
+![](https://user-images.githubusercontent.com/91208072/191505182-4995a66b-a2c0-48cd-858c-5b2f5f54f993.png))
+
+![](https://user-images.githubusercontent.com/91208072/191505363-700c9d7a-d701-4ed8-b244-69ebcd23d3a0.png))
+
+![](https://user-images.githubusercontent.com/91208072/191505504-4f112384-74c5-44c0-99f2-9a9b452da71e.png))
+
+## Tabla contenido compañeros
+|  Nombre | Github  |
+| ------------ | ------------ |
+| Luis contreras  | LuisContreras1299  |
+| Carlos Gonzales  |  Carlos9909-Web  |
+| Martin Cabrera  | MartinCabrera137  |
+
+## Agregar como colaborador del repositorio PM1 al maestro
+![](https://user-images.githubusercontent.com/91208072/191506566-165c5bd9-f0b6-45c2-9658-ba30516d7777.png))
+
+## Creamos una nueva organizacion
+![](https://user-images.githubusercontent.com/91208072/191507337-89a40775-c195-48a5-b343-a3823a1acac7.png))
+
+## En la organizacion creamos un equipo llamado administradores y otro llamado colaboradores
+![](https://user-images.githubusercontent.com/91208072/191507860-93b290a7-297f-4e00-b8c9-e6baff2f69cb.png))
+
+![](https://user-images.githubusercontent.com/91208072/191508132-3f808468-53ae-4b9d-b629-31e31755663e.png))
+
+##agregamos usuarios a los grupos
+![](https://user-images.githubusercontent.com/91208072/191508635-72086421-b496-4043-a3a7-e1b8587117af.png))
+
+![](https://user-images.githubusercontent.com/91208072/191509093-a486fb18-d133-40ea-af19-b99b81d8ed5e.png))
